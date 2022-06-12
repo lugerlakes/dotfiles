@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fernando.lagos.alvarado@gmail.com
+	name = Fernando Lagos
